@@ -1,0 +1,21 @@
+@charset "UTF-8";
+  #frm{
+     width:500px;
+     background: white;
+     padding: 2rem;
+     border-radius:1rem
+  }
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../images/Background.png");
+  background-attachment: fixed;
+  width: 100%;
+  min-height: 100vh;
+  overflow: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   font-family: "Rajdhani", sans-serif;
+  }
